@@ -28,4 +28,4 @@ test:
 production:
   <<: *default
   database: hello_app
-  host: 9.6.15
+  
